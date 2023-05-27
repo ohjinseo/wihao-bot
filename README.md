@@ -11,7 +11,7 @@
 > 2. AWS Lambda와 AWS IoT Core
 >
 > - 새 Docker 이미지가 S3에 업로드되면, AWS Lambda 함수가 트리거 된다.
-> - Lambda 함수에서는 AWS IoT Core MQTT 프로토콜을 이용해 NAT 환경의 라즈베리파이에게 메시지를 보낸다. <br /><br />
+> - Lambda 함수에서는 AWS IoT Core **MQTT 프로토콜**을 이용해 **NAT 환경의 라즈베리파이**에게 메시지를 보낸다. <br /><br />
 >
 > 3. 라즈베리파이에서의 실행
 >
