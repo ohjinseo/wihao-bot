@@ -1,4 +1,4 @@
-# NAT 환경의 라즈베리파이 CI/CD Architecture
+# CI/CD Architecture
 
 ![architecture](https://github.com/ohjinseo/wihao-bot/assets/62508156/2c25801f-bdad-411e-866c-153934519f2a)
 
